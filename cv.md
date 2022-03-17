@@ -31,6 +31,7 @@ My goal is to become a front-end developer, I am captivated by the prospect of d
 - WebRef
 - LocalCoding
 (free courses on sites)
+-Youtube: freelanser for life, Sergey Nemchinsky, WebDev
 
 ### Languages:
 - English A2 / A2+
