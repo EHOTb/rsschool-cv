@@ -6,14 +6,14 @@
 >- *GitHub:* EHOTb
 
 ### About Myself:
-My goal is to become a front-end developer, I am captivated by the prospect of daily and constant growth and learning, I also love to learn something new and create new things with my own hands.
+My goal is to become a front-end developer, I am captivated by the prospect of daily and constant growth and learning, I also love to learn something new and create new things with my own hands. I studying for more than half a year
 
 ### Skills:
-- HTML5, gi
+- HTML5
 - CSS3
 - JavaScript Basics
 - Git, GitHub
-- VS Code, Sublime Text
+- VS Code(main), Sublime Text
 ### Code example:
 `solution = function (array) {
   let sum = 0;
